@@ -1,0 +1,65 @@
+body{
+    background-color: black;
+    
+}
+.entête{
+    margin: auto;
+    width: 600px;
+    height: 400px;
+    background-color: gainsboro;
+    padding: 10px;
+    
+}
+.icone{
+    float: right;
+    padding: 1px;
+    margin: 10px 5px 0px 0px;
+}
+.image{
+    float: right;
+    margin: 30px 0px 0px 0px;
+    width: 250px;
+    height: 300px;
+
+}
+.noir{
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 600px;
+    height: 200px;
+    margin: auto;
+}
+.button{
+    background-color: black;
+    color: white;
+    border: 1px solid whitesmoke;
+}
+.lieu{
+    background-color: white;
+    color: black;
+    width:600px ;
+    height: 750px;
+    margin: auto;
+    padding: 5px;
+}
+.droite{
+    float: right;
+    margin-right: 10px;
+    margin-top: -100px;
+}
+.gauche{
+    float: right;
+    margin-top: -100px;
+}
+.photo{
+    margin-top: 400px;
+}
+.footer{
+    width: 600px;
+    height: 200px;
+    background-color: rgb(220, 216, 216);
+    margin: auto;
+    padding: 5px;
+    text-align: center;
+}
